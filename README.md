@@ -1,6 +1,6 @@
 # Customer Churn Prediction for a SaaS Company
 
-![Project Banner](https://user-images.githubusercontent.com/72959633/123139356-dd554f80-d45d-11eb-9763-2d2d091a9999.png) This project is an end-to-end data science analysis aimed at predicting customer churn for a subscription-based SaaS company. The primary goal is to build a machine learning model that can accurately identify customers at risk of churning, enabling the business to implement targeted retention strategies. This repository contains the complete analysis, from data cleaning and exploratory data analysis to model training, evaluation, and interpretation.
+![Project Banner] This project is an end-to-end data science analysis aimed at predicting customer churn for a subscription-based SaaS company. The primary goal is to build a machine learning model that can accurately identify customers at risk of churning, enabling the business to implement targeted retention strategies. This repository contains the complete analysis, from data cleaning and exploratory data analysis to model training, evaluation, and interpretation.
 
 ---
 
